@@ -1,0 +1,23 @@
+{
+  "name": "event-bridge-dan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Searle/event-bridge-dan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Searle/event-bridge-dan/issues"
+  },
+  "homepage": "https://github.com/Daniel-Searle/event-bridge-dan#readme",
+  "dependencies": {
+    "aws-lambda": "^1.0.7",
+    "typescript": "^4.6.3"
+  }
+}
